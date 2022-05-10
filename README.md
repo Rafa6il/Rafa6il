@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello there! 👋
 
+  I'm Rafa. Nice to see you here! :heart:
+  - :mortar_board: Software engineer since 2021
+  - :computer: Currently working on Logitravel as Software developer
+  - :books: Currently learning about Django, Core Python and Vue
 <!--
 **Rafa6il/Rafa6il** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
